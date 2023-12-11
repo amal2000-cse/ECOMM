@@ -1,0 +1,20 @@
+
+-----Place a order----
+
+in the below function, if one function failed then everything should revert back to the original state
+like if the payment fails then the stock shouldnt be reduced, like that and everything should be same like before they did the payment
+
+1. get the cart items of user, and calculate the totalAmount
+
+2. create a record for the order
+
+3. reduce the stock(product quantity)
+
+4. clear the cart
+
+the below funciton wont be done in the project
+
+5. deduct the payment
+6. inform to sellers
+7. inform to coureir
+
