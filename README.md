@@ -42,13 +42,13 @@ The project structure is organized as follows:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ecomm-backend.git
+    git clone https://github.com/amal2000-cse/ECOMM.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd ecomm-backend
+    cd ECOMM
     npm install
     ```
 
